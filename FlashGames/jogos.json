@@ -153,5 +153,41 @@
       ]
     },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Penguin Diner",
+    "descricao": "O jogador controla Penny, uma pinguim que precisa trabalhar em um restaurante para ganhar dinheiro e voltar para casa. A missão é atender os clientes da melhor maneira possível.",
+    "categorias": [
+      "Restaurantes",
+      "Administrar",
+      "Cozinhar",
+      "Meninas"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/PenguinDiner/PenguinDiner.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/PenguinDiner/preview.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/PenguinDiner/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Mover e interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/PenguinDiner/icon.jpg?raw=true"
   }
 ]
