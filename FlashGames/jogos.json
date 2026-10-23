@@ -2,6 +2,11 @@
   {
     "titulo": "Skull Kid",
     "descricao": "Passe a serra elétrica em todos os objetos e pessoas que ver pela frente.",
+    "categorias": [
+      "Luta",
+      "Terror",
+      "Escape"
+    ],
     "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/SkullKid/skullkid.swf",
     "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SkullKid/preview_lq.jpg?raw=true",
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SkullKid/preview.jpg?raw=true",
@@ -10,6 +15,12 @@
   {
     "titulo": "Super Smash Flash",
     "descricao": "Um jogo de luta muito popular que imita o jogo famoso de Wii 'Super Smash Bros Brawl'",
+    "categorias": [
+      "Luta",
+      "Mario",
+      "Clássicos",
+      "Sonic"
+    ],
     "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/SuperSmashFlash/supersmashflash.swf",
     "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/preview_lq.jpg",
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/preview.jpg?raw=true",
