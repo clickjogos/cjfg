@@ -26,5 +26,19 @@
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/preview.jpg?raw=true",
     "possuiIcone": true,
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/icon.png?raw=true"
+  },
+  {
+    "titulo": "Shark Mountain",
+    "descricao": "Você é um tubarão que vive em uma montanha. Algumas pessoas querem explodir a sua casa, impeça-as!",
+    "categorias": [
+      "Agilidade",
+      "Terror",
+      "Tubarão"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/SharkMountain/shark_mountain.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/preview.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/icon.jpg?raw=true"
   }
 ]
