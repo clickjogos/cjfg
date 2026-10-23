@@ -10,7 +10,28 @@
     "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/SkullKid/skullkid.swf",
     "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SkullKid/preview_lq.jpg?raw=true",
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SkullKid/preview.jpg?raw=true",
-    "possuiIcone": false
+    "possuiIcone": false,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Usar a serra elétrica",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    }
   },
   {
     "titulo": "Super Smash Flash",
@@ -25,6 +46,36 @@
     "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/preview_lq.jpg",
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/preview.jpg?raw=true",
     "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "O",
+          "descricao": "Pular"
+        },
+        {
+          "tecla": "P",
+          "descricao": "Atacar"
+        }
+      ]
+    },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/icon.png?raw=true"
   },
   {
@@ -39,6 +90,27 @@
     "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/preview.jpg?raw=true",
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/preview.jpg?raw=true",
     "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/icon.jpg?raw=true"
   },
   {
@@ -54,6 +126,32 @@
     "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/preview_lq.jpg?raw=true",
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/preview.jpg?raw=true",
     "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "A",
+          "descricao": "Atacar"
+        }
+      ]
+    },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/icon.jpg?raw=true"
   }
 ]
