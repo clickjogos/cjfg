@@ -40,5 +40,20 @@
     "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/preview.jpg?raw=true",
     "possuiIcone": true,
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Mario Combat",
+    "descricao": "Nesta versão de Mario você deverá entrar no castelo de Bowser e destruir ele e o seu exército de tartarugas.",
+    "categorias": [
+      "Mario",
+      "Luta",
+      "Clássicos",
+      "Agilidade"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/MarioCombat/mariocombat.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/icon.jpg?raw=true"
   }
 ]
