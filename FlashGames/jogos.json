@@ -659,5 +659,46 @@
       "teclas": []
     },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Extreme%20Pamplona/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Happy Wheels",
+    "descricao": "Escolha o seu veículo e prepare-se para superar uma série de obstáculos mortais neste jogo extremamente violento e divertido! Faça de tudo para cruzar a linha de chegada sem perder muitos membros pelo caminho.",
+    "categorias": [
+      "Agilidade",
+      "Ação",
+      "Engraçado",
+      "Plataforma"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/HappyWheels/Happy-Wheels.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/HappyWheels/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/HappyWheels/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": true,
+      "descCtrl": "Ações secundárias",
+      "shift": true,
+      "descShift": "Ações secundárias",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Pular",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Z",
+          "descricao": "Ejetar"
+        }
+      ]
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/HappyWheels/icon.jpg?raw=true"
   }
 ]
