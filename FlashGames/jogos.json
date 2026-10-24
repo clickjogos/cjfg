@@ -743,5 +743,43 @@
       "teclas": []
     },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Dont%20Whack%20Your%20Boss/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Wolverine: M.R.D. Escape",
+    "descricao": "O mutante Wolverine foi capturado pela Divisão de Resposta aos Mutantes (M.R.D.)! Ajude-o a usar suas garras de adamantium e sua fúria para escapar da instalação de segurança máxima, derrotando os guardas e destruindo robôs sentinelas pelo caminho.",
+    "categorias": [
+      "Ação e Aventura",
+      "Wolverine",
+      "Desenhos",
+      "Heróis",
+      "Luta",
+      "Puzzle"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Wolverine%20M.R.D.%20Escape/mrdescape.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Wolverine%20M.R.D.%20Escape/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Wolverine%20M.R.D.%20Escape/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Atacar",
+      "setas": true,
+      "descSetas": "Movimentação\\Pular\\Agachar",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Wolverine%20M.R.D.%20Escape/icon.jpg?raw=true"
   }
 ]
