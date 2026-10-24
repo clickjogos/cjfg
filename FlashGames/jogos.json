@@ -702,6 +702,9 @@
         }
       ]
     },
-    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/HappyWheels/icon.jpg?raw=true"
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/HappyWheels/icon.jpg?raw=true",
+    "flashvars": {
+      "LEVELPATH": "{PASTA}"
+    }
   }
 ]
