@@ -427,5 +427,201 @@
       ]
     },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Savage%20Pursuit/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Power Splash",
+    "descricao": "Ajude Ben 10 a resgatar Gwen do vilão aquático Drip Jaws no oceano! Transforme-se no Aquático para nadar pelas profundezas marinhas e desviar dos perigos, e use o Insetóide para voar pelos céus, resgatando sua irmã e derrotando os monstros do mar.",
+    "categorias": [
+      "Ben 10",
+      "Ação e Aventura",
+      "Agilidade",
+      "Desenhos"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/ben-10-power-splash/ben-10-power-splash-2008.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-power-splash/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-power-splash/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Atacar",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-power-splash/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Spore Attack",
+    "descricao": "O alienígena Cipó Selvagem precisa enfrentar uma invasão de esporos mutantes! Ajude o Ben 10 a usar as habilidades do Cipó Selvagem para mirar e lançar sementes explosivas nas criaturas de esporo que caem do céu, protegendo a cidade do contágio.",
+    "categorias": [
+      "Ben 10",
+      "Ação e Aventura",
+      "Tiro",
+      "Desenhos"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/ben-10-spore-attack/ben-10-spore-attack-2008.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-spore-attack/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-spore-attack/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Mouse",
+          "descricao": "Movimentação"
+        },
+        {
+          "tecla": "Z",
+          "descricao": "Atacar"
+        }
+      ]
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-spore-attack/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Alien Force: Hero Hoops",
+    "descricao": "Mostre sua pontaria e habilidade no basquete com o Ben 10! Escolha o seu herói alienígena da Força Alienígena e acerte o maior número de cestas antes que o tempo acabe para fazer uma pontuação recorde.",
+    "categorias": [
+      "Ben 10",
+      "Esportes",
+      "Basquete",
+      "Desenhos"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Ben%2010%20Alien%20Force%20Hero%20Hoops/ben-10-alien-force-hero-hoops-2009.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Alien%20Force%20Hero%20Hoops/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Alien%20Force%20Hero%20Hoops/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Mouse",
+          "descricao": "Movimentação"
+        }
+      ]
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Alien%20Force%20Hero%20Hoops/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Cavern Run",
+    "descricao": "Ajude Ben 10 na forma do alienígena Enormossauro a escapar de uma caverna perigosa! Desenhe caminhos e rampas com o mouse para guiar o herói pelos obstáculos, coletar as esferas de energia e chegar com segurança até a saída de cada nível.",
+    "categorias": [
+      "Ben 10",
+      "Ação e Aventura",
+      "Raciocínio",
+      "Desenhos"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Ben%2010%20Cavern%20Run/ben-10-cavern-run-2009.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Cavern%20Run/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Cavern%20Run/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Desenhar caminho",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Cavern%20Run/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: The Master of Flame",
+    "descricao": "Ajude o Ben 10 na forma do alienígena Chama a dominar o poder do fogo! Atire bolas de fogo para destruir as formações de gelo e as ameaças alienígenas pelo caminho, alcançando a pontuação máxima em cada fase.",
+    "categorias": [
+      "Ben 10"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Ben%2010%20The%20Master%20of%20Flame/ben-10-the-master-of-flame-2010.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20The%20Master%20of%20Flame/preview.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20The%20Master%20of%20Flame/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Atirar",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Soltar bomba",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Mouse",
+          "descricao": "Movimentação"
+        }
+      ]
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20The%20Master%20of%20Flame/icon.jpg?raw=true"
   }
 ]
