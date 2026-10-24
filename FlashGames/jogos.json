@@ -189,5 +189,243 @@
       "teclas": []
     },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/PenguinDiner/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Fireboy & Watergirl The Forest Temple",
+    "descricao": "Ajude o menino de fogo e a menina de água a passarem por todos os obstáculos deste templo. Você deve controlar os dois personagens ao mesmo tempo para pegar os diamantes e chegar até as portas de saída de cada fase, tomando cuidado para não colocar o menino na água e a menina no fogo.",
+    "categorias": [
+      "Plataforma",
+      "Escape",
+      "Multiplayer",
+      "Estratégia",
+      "Multiplayer"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/FireboyAndWatergirlTheForestTemple/Fireboy%20&%20Watergirl%20-%20The%20Forest%20Temple.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/FireboyAndWatergirlTheForestTemple/preview.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/FireboyAndWatergirlTheForestTemple/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": true,
+      "descSetas": "Mover Menino de Fogo",
+      "wasd": true,
+      "descWasd": "Mover Menina de água",
+      "teclas": []
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/FireboyAndWatergirlTheForestTemple/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Critical Impact",
+    "descricao": "Utilize as habilidades especiais de Ben 10 para se transformar em monstros, destruir os meteoros que encontrar pela frente e virar um fantasma para passar por obstáculos que parecem impossíveis, impedindo a chuva de meteoros que ameaça o planeta Terra.",
+    "categorias": [
+      "Ben 10",
+      "Desenhos",
+      "Ação e Aventura"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Ben10%20Critical%20Impact/ben-10-critical-impact-2006.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben10%20Critical%20Impact/preview.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben10%20Critical%20Impact/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Atirar",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Z",
+          "descricao": "Heatblast"
+        },
+        {
+          "tecla": "X",
+          "descricao": "Ghostfeak"
+        }
+      ]
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben10%20Critical%20Impact/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Hero Matrix",
+    "descricao": "Use a matriz do Omnitrix para testar e combinar as habilidades dos heróis alienígenas de Ben 10, superando os desafios e inimigos que aparecem pelo caminho.",
+    "categorias": [
+      "Ben 10",
+      "Ação e Aventura",
+      "Desenhos Animados"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Ben%2010%20Hero%20Matrix/ben-10-hero-matrix-2006.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Hero%20Matrix/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Hero%20Matrix/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Hero%20Matrix/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Blockade Blitz",
+    "descricao": "Ajude Ben 10 na pele do alienígena Insetóide a rebater a esfera de energia para destruir os blocos do Vilgax e libertar as cidades do controle alienígena.",
+    "categorias": [
+      "Ben 10",
+      "Ação e Aventura",
+      "Agilidade",
+      "Desenhos"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/ben-10-blockade-blitz/ben-10-blockade-blitz-2007.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-blockade-blitz/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-blockade-blitz/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Atirar",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Mouse",
+          "descricao": "Mover"
+        },
+        {
+          "tecla": "Z",
+          "descricao": "Omnitrix"
+        }
+      ]
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-blockade-blitz/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Kraken Attack",
+    "descricao": "O monstro marinho Kraken está atacando a cidade! Ajude o Ben 10 a se transformar em alienígenas poderosos para atirar nas ameaças do lago, derrotar as criaturas aquáticas e proteger o vovô Max e a Gwen.",
+    "categorias": [
+      "Ben 10",
+      "Ação e Aventura",
+      "Tiro",
+      "Desenhos"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Ben%2010%20Krakken%20Attack/ben-10-krakken-attack-2007.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Krakken%20Attack/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Krakken%20Attack/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Atirar",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Krakken%20Attack/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Ben 10: Savage Pursuit",
+    "descricao": "O Dr. Animo enviou seus animais mutantes para recuperar as peças de um dispositivo maligno. Ajude o Ben 10 a perseguir o vilão através da selva, utilizando as transformações do Omnitrix como o Chama, Besta, Quatro Braços e Insetóide para superar os obstáculos e derrotar os monstros.",
+    "categorias": [
+      "Ben 10",
+      "Ação e Aventura",
+      "Plataforma",
+      "Desenhos"
+    ],
+    "swfUrl": "https://github.com/clickjogos/cjfg/raw/refs/heads/main/FlashGames/Ben%2010%20Savage%20Pursuit/ben-10-savage-pursuit-2007.swf",
+    "previewBaixa": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Savage%20Pursuit/preview_lq.jpg?raw=true",
+    "previewOriginal": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Savage%20Pursuit/preview.jpg?raw=true",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Atacar",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Z",
+          "descricao": "Omnitrix"
+        }
+      ]
+    },
+    "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Savage%20Pursuit/icon.jpg?raw=true"
   }
 ]
