@@ -781,5 +781,96 @@
       "teclas": []
     },
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Wolverine%20M.R.D.%20Escape/icon.jpg?raw=true"
+  },
+  {
+    "titulo": "Batman: The Cobblebot Caper",
+    "descricao": "Ajude o Cavaleiro das Trevas a frustrar os planos do Pinguim em Gotham City! Explore os cenários, derrote capangas e use os dispositivos tecnológicos do Batman para resolver o caso.",
+    "categorias": [
+      "Batman",
+      "Ação e Aventura",
+      "Heróis",
+      "Luta",
+      "Clássicos"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Batman%20-%20The%20Cobblebot%20Caper/batman_the_cobblebot_caper.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Batman%20-%20The%20Cobblebot%20Caper/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Batman%20-%20The%20Cobblebot%20Caper/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Pular e planar",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "A",
+          "descricao": "Batarangue"
+        },
+        {
+          "tecla": "D",
+          "descricao": "Chutar"
+        },
+        {
+          "tecla": "D",
+          "descricao": "Chutar"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Batman%20-%20The%20Cobblebot%20Caper/icon.jpg"
+  },
+  {
+    "titulo": "Red Dragon",
+    "descricao": "Assuma o controle de um poderoso dragão vermelho e libere sua fúria sobre os reinos! Voe pelos céus, incinere inimigos, destrua fortalezas e enfrente guerreiros corajosos que ousam desafiar sua fúria ancestral.",
+    "categorias": [
+      "Ação e Aventura",
+      "Clássicos",
+      "Destruição",
+      "Naves"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Red%20Dragon/red_dragon.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Red%20Dragon/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Red%20Dragon/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Atacar",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Mouse",
+          "descricao": "Movimentação e mira"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Red%20Dragon/icon.jpg"
   }
 ]
