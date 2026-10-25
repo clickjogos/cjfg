@@ -872,5 +872,47 @@
       ]
     },
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Red%20Dragon/icon.jpg"
+  },
+  {
+    "titulo": "Papa's Burgeria",
+    "descricao": "Assuma o controle da lanchonete do Papa Louie e prepare os hambúrgueres mais deliciosos da cidade! Anote os pedidos, grelhe a carne no ponto certo, monte o sanduíche com os ingredientes exatos e sirva os clientes com rapidez para garantir boas gorjetas.",
+    "categorias": [
+      "Cozinhar",
+      "Restaurantes",
+      "Administrar",
+      "Clássicos",
+      "Agilidade"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Papa's%20Burgeria/papas-burgeria.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Papa's%20Burgeria/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Papa's%20Burgeria/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir com os ingredientes e estações",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "Mouse",
+          "descricao": "Movimentação e seleção"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Papa's%20Burgeria/icon.jpg"
   }
 ]
