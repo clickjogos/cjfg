@@ -914,5 +914,275 @@
       ]
     },
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Papa's%20Burgeria/icon.jpg"
+  },
+  {
+    "titulo": "Pokemon Towering Legends",
+    "descricao": "Entre no mundo dos monstros de bolso e participe de batalhas eletrizantes! Escolha seus golpes com sabedoria, derrote os adversários e prove que você é o melhor treinador da região.",
+    "categorias": [
+      "Ação e Aventura",
+      "Clássicos",
+      "RPG"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Pokemon%20Towering%20Legends/pokemontoweringlegends.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Pokemon%20Towering%20Legends/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Pokemon%20Towering%20Legends/preview.jpg",
+    "possuiIcone": false,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    }
+  },
+  {
+    "titulo": "Final Fantasy Sonic X 1",
+    "descricao": "Junte-se ao ouriço mais famoso do mundo em uma aventura épica que mistura elementos de Final Fantasy com Sonic! Siga a história, explore os cenários e prepare-se para enfrentar inimigos formidáveis em batalhas cheias de ação.",
+    "categorias": [
+      "Sonic",
+      "Ação e Aventura",
+      "Luta",
+      "Clássicos"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%201/197118_Final_Fantasy_Sonic_ep.1.s.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%201/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%201/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": true,
+      "descSetas": "Movimentação e navegação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "ENTER",
+          "descricao": "Avançar diálogo / Confirmar"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%201/icon.jpg"
+  },
+  {
+    "titulo": "Final Fantasy Sonic X 2",
+    "descricao": "Continue a jornada épica do ouriço azul em mais um capítulo eletrizante que mistura universos. Siga a história, explore os cenários repletos de ação e use seus reflexos para superar os perigos e inimigos pelo caminho.",
+    "categorias": [
+      "Sonic",
+      "Ação e Aventura",
+      "Luta",
+      "Clássicos"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%202/200757_Final_Fantasy_Sonic_ep.2.s.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%202/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%202/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%202/icon.jpg"
+  },
+  {
+    "titulo": "Final Fantasy Sonic X 3",
+    "descricao": "Acompanhe o terceiro capítulo da saga épica que une os universos de Final Fantasy e Sonic em uma aventura cheia de ação. Supere novos desafios, siga a história e derrote os inimigos que cruzarem o seu caminho.",
+    "categorias": [
+      "Sonic",
+      "Ação e Aventura",
+      "Luta",
+      "Clássicos"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%203/215935_FFSX3.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%203/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%203/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "ENTER",
+          "descricao": "Avançar diálogo / Confirmar"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%203/icon.jpg"
+  },
+  {
+    "titulo": "Final Fantasy Sonic X 4",
+    "descricao": "Mergulhe no quarto capítulo da emocionante jornada de Sonic em um crossover épico. Enfrente novos inimigos, siga a narrativa cheia de ação e use seus reflexos para vencer os perigos.",
+    "categorias": [
+      "Sonic",
+      "Ação e Aventura",
+      "Luta",
+      "Clássicos"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%204/255434_Final_Fantasy_Sonic_X_4.sw.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%204/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%204/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Avançar diálogo",
+      "setas": true,
+      "descSetas": "Navegar pelos menus",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "ENTER",
+          "descricao": "Confirmar / Avançar"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%204/icon.jpg"
+  },
+  {
+    "titulo": "Final Fantasy Sonic X 5",
+    "descricao": "Continue a saga épica de Sonic com mais um capítulo repleto de ação e sequências cinematográficas impressionantes. Siga a história, enfrente inimigos formidáveis e use seus reflexos para sobreviver aos desafios que aparecem.",
+    "categorias": [
+      "Sonic",
+      "Ação e Aventura",
+      "Luta",
+      "Clássicos"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%205/ffsx5.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%205/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%205/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": false,
+      "descEspaco": "",
+      "setas": false,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "ENTER",
+          "descricao": "Avançar"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%205/icon.jpg"
+  },
+  {
+    "titulo": "Final Fantasy Sonic X 6",
+    "descricao": "Acompanhe o sexto capítulo da emocionante saga de Sonic com sequências cheias de ação e muita adrenalina. Siga a narrativa cinematográfica, desvie dos perigos e use seus reflexos rápidos para vencer os desafios que surgem pelo caminho.",
+    "categorias": [
+      "Sonic",
+      "Ação e Aventura",
+      "Luta",
+      "Clássicos"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%206/ffsx6.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%206/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%206/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": true,
+      "descBotaoEsquerdo": "Interagir",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Avançar diálogo / Ação",
+      "setas": true,
+      "descSetas": "Movimentação",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": []
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%206/icon.jpg"
   }
 ]
