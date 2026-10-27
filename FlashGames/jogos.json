@@ -1214,5 +1214,55 @@
       "teclas": []
     },
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%206/icon.jpg"
+  },
+  {
+    "id": 144,
+    "titulo": "Super Mario Flash 2",
+    "descricao": "Ajude o encanador mais famoso do mundo a saltar por plataformas, derrotar inimigos e coletar moedas em fases clássicas cheias de aventura. Use os controles para se movimentar, pular e explorar cada cenário até chegar ao final. Derrote os chefes e salve o dia neste clássico inspirado nas origens do herói.",
+    "categorias": [
+      "Mario",
+      "Plataforma",
+      "Clássicos",
+      "Ação e Aventura"
+    ],
+    "swfUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Super%20Mario%20Flash%202/supermarioflash-2.swf",
+    "previewBaixa": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Super%20Mario%20Flash%202/preview_lq.jpg",
+    "previewOriginal": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Super%20Mario%20Flash%202/preview.jpg",
+    "possuiIcone": true,
+    "controles": {
+      "botaoEsquerdo": false,
+      "descBotaoEsquerdo": "",
+      "botaoDireito": false,
+      "descBotaoDireito": "",
+      "ctrl": false,
+      "descCtrl": "",
+      "shift": false,
+      "descShift": "",
+      "alt": false,
+      "descAlt": "",
+      "tab": false,
+      "descTab": "",
+      "espaco": true,
+      "descEspaco": "Selecionar / Confirmar",
+      "setas": true,
+      "descSetas": "Movimentação \\ Pular",
+      "wasd": false,
+      "descWasd": "Movimentação",
+      "teclas": [
+        {
+          "tecla": "A",
+          "descricao": "Pular"
+        },
+        {
+          "tecla": "S",
+          "descricao": "Correr \\ Atirar"
+        },
+        {
+          "tecla": "ENTER",
+          "descricao": "Pausar"
+        }
+      ]
+    },
+    "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Super%20Mario%20Flash%202/icon.jpg"
   }
 ]
