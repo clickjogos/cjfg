@@ -1,5 +1,6 @@
 [
   {
+    "id": 188,
     "titulo": "Skull Kid",
     "descricao": "Passe a serra elétrica em todos os objetos e pessoas que ver pela frente.",
     "categorias": [
@@ -34,6 +35,7 @@
     }
   },
   {
+    "id": 534,
     "titulo": "Super Smash Flash",
     "descricao": "Um jogo de luta muito popular que imita o jogo famoso de Wii 'Super Smash Bros Brawl'",
     "categorias": [
@@ -79,6 +81,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SuperSmashFlash/icon.png?raw=true"
   },
   {
+    "id": 429,
     "titulo": "Shark Mountain",
     "descricao": "Você é um tubarão que vive em uma montanha. Algumas pessoas querem explodir a sua casa, impeça-as!",
     "categorias": [
@@ -114,6 +117,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/SharkMountain/icon.jpg?raw=true"
   },
   {
+    "id": 108,
     "titulo": "Mario Combat",
     "descricao": "Nesta versão de Mario você deverá entrar no castelo de Bowser e destruir ele e o seu exército de tartarugas.",
     "categorias": [
@@ -155,6 +159,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/MarioCombat/icon.jpg?raw=true"
   },
   {
+    "id": 242,
     "titulo": "Penguin Diner",
     "descricao": "O jogador controla Penny, uma pinguim que precisa trabalhar em um restaurante para ganhar dinheiro e voltar para casa. A missão é atender os clientes da melhor maneira possível.",
     "categorias": [
@@ -191,6 +196,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/PenguinDiner/icon.jpg?raw=true"
   },
   {
+    "id": 973,
     "titulo": "Fireboy & Watergirl The Forest Temple",
     "descricao": "Ajude o menino de fogo e a menina de água a passarem por todos os obstáculos deste templo. Você deve controlar os dois personagens ao mesmo tempo para pegar os diamantes e chegar até as portas de saída de cada fase, tomando cuidado para não colocar o menino na água e a menina no fogo.",
     "categorias": [
@@ -228,6 +234,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/FireboyAndWatergirlTheForestTemple/icon.jpg?raw=true"
   },
   {
+    "id": 477,
     "titulo": "Ben 10: Critical Impact",
     "descricao": "Utilize as habilidades especiais de Ben 10 para se transformar em monstros, destruir os meteoros que encontrar pela frente e virar um fantasma para passar por obstáculos que parecem impossíveis, impedindo a chuva de meteoros que ameaça o planeta Terra.",
     "categorias": [
@@ -272,6 +279,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben10%20Critical%20Impact/icon.jpg?raw=true"
   },
   {
+    "id": 697,
     "titulo": "Ben 10: Hero Matrix",
     "descricao": "Use a matriz do Omnitrix para testar e combinar as habilidades dos heróis alienígenas de Ben 10, superando os desafios e inimigos que aparecem pelo caminho.",
     "categorias": [
@@ -307,6 +315,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Hero%20Matrix/icon.jpg?raw=true"
   },
   {
+    "id": 962,
     "titulo": "Ben 10: Blockade Blitz",
     "descricao": "Ajude Ben 10 na pele do alienígena Insetóide a rebater a esfera de energia para destruir os blocos do Vilgax e libertar as cidades do controle alienígena.",
     "categorias": [
@@ -352,6 +361,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-blockade-blitz/icon.jpg?raw=true"
   },
   {
+    "id": 684,
     "titulo": "Ben 10: Kraken Attack",
     "descricao": "O monstro marinho Kraken está atacando a cidade! Ajude o Ben 10 a se transformar em alienígenas poderosos para atirar nas ameaças do lago, derrotar as criaturas aquáticas e proteger o vovô Max e a Gwen.",
     "categorias": [
@@ -388,6 +398,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Krakken%20Attack/icon.jpg?raw=true"
   },
   {
+    "id": 300,
     "titulo": "Ben 10: Savage Pursuit",
     "descricao": "O Dr. Animo enviou seus animais mutantes para recuperar as peças de um dispositivo maligno. Ajude o Ben 10 a perseguir o vilão através da selva, utilizando as transformações do Omnitrix como o Chama, Besta, Quatro Braços e Insetóide para superar os obstáculos e derrotar os monstros.",
     "categorias": [
@@ -429,6 +440,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Savage%20Pursuit/icon.jpg?raw=true"
   },
   {
+    "id": 490,
     "titulo": "Ben 10: Power Splash",
     "descricao": "Ajude Ben 10 a resgatar Gwen do vilão aquático Drip Jaws no oceano! Transforme-se no Aquático para nadar pelas profundezas marinhas e desviar dos perigos, e use o Insetóide para voar pelos céus, resgatando sua irmã e derrotando os monstros do mar.",
     "categorias": [
@@ -465,6 +477,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-power-splash/icon.jpg?raw=true"
   },
   {
+    "id": 888,
     "titulo": "Ben 10: Spore Attack",
     "descricao": "O alienígena Cipó Selvagem precisa enfrentar uma invasão de esporos mutantes! Ajude o Ben 10 a usar as habilidades do Cipó Selvagem para mirar e lançar sementes explosivas nas criaturas de esporo que caem do céu, protegendo a cidade do contágio.",
     "categorias": [
@@ -510,6 +523,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/ben-10-spore-attack/icon.jpg?raw=true"
   },
   {
+    "id": 366,
     "titulo": "Ben 10: Alien Force: Hero Hoops",
     "descricao": "Mostre sua pontaria e habilidade no basquete com o Ben 10! Escolha o seu herói alienígena da Força Alienígena e acerte o maior número de cestas antes que o tempo acabe para fazer uma pontuação recorde.",
     "categorias": [
@@ -551,6 +565,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Alien%20Force%20Hero%20Hoops/icon.jpg?raw=true"
   },
   {
+    "id": 559,
     "titulo": "Ben 10: Cavern Run",
     "descricao": "Ajude Ben 10 na forma do alienígena Enormossauro a escapar de uma caverna perigosa! Desenhe caminhos e rampas com o mouse para guiar o herói pelos obstáculos, coletar as esferas de energia e chegar com segurança até a saída de cada nível.",
     "categorias": [
@@ -587,6 +602,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20Cavern%20Run/icon.jpg?raw=true"
   },
   {
+    "id": 313,
     "titulo": "Ben 10: The Master of Flame",
     "descricao": "Ajude o Ben 10 na forma do alienígena Chama a dominar o poder do fogo! Atire bolas de fogo para destruir as formações de gelo e as ameaças alienígenas pelo caminho, alcançando a pontuação máxima em cada fase.",
     "categorias": [
@@ -625,6 +641,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Ben%2010%20The%20Master%20of%20Flame/icon.jpg?raw=true"
   },
   {
+    "id": 440,
     "titulo": "Extreme Pamplona",
     "descricao": "Corra pela sua vida! Comece fugindo de um touro enfurecido nas ruas de Pamplona, na Espanha, e viaje pelo mundo inteiro escapando de perseguidores malucos como garçons franceses, russos de patins e muito mais. Pule os obstáculos pelo caminho para não ser pego!",
     "categorias": [
@@ -664,6 +681,7 @@
     }
   },
   {
+    "id": 823,
     "titulo": "Happy Wheels (Em manutenção: Jogo temporariamente indisponivel)",
     "descricao": "Escolha o seu veículo e prepare-se para superar uma série de obstáculos mortais neste jogo extremamente violento e divertido! Faça de tudo para cruzar a linha de chegada sem perder muitos membros pelo caminho.",
     "categorias": [
@@ -708,6 +726,7 @@
     }
   },
   {
+    "id": 402,
     "titulo": "Don't Whack Your Boss",
     "descricao": "O seu chefe está te irritando no escritório? Encontre diferentes maneiras divertidas e violentas de dar uma lição nele usando os objetos ao seu redor na sala! Descubra todas as formas malucas de acabar com o seu chefe estressante.",
     "categorias": [
@@ -745,6 +764,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Dont%20Whack%20Your%20Boss/icon.jpg?raw=true"
   },
   {
+    "id": 479,
     "titulo": "Wolverine: M.R.D. Escape",
     "descricao": "O mutante Wolverine foi capturado pela Divisão de Resposta aos Mutantes (M.R.D.)! Ajude-o a usar suas garras de adamantium e sua fúria para escapar da instalação de segurança máxima, derrotando os guardas e destruindo robôs sentinelas pelo caminho.",
     "categorias": [
@@ -783,6 +803,7 @@
     "iconeUrl": "https://github.com/clickjogos/cjfg/blob/main/FlashGames/Wolverine%20M.R.D.%20Escape/icon.jpg?raw=true"
   },
   {
+    "id": 554,
     "titulo": "Batman: The Cobblebot Caper",
     "descricao": "Ajude o Cavaleiro das Trevas a frustrar os planos do Pinguim em Gotham City! Explore os cenários, derrote capangas e use os dispositivos tecnológicos do Batman para resolver o caso.",
     "categorias": [
@@ -833,6 +854,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Batman%20-%20The%20Cobblebot%20Caper/icon.jpg"
   },
   {
+    "id": 282,
     "titulo": "Red Dragon",
     "descricao": "Assuma o controle de um poderoso dragão vermelho e libere sua fúria sobre os reinos! Voe pelos céus, incinere inimigos, destrua fortalezas e enfrente guerreiros corajosos que ousam desafiar sua fúria ancestral.",
     "categorias": [
@@ -874,6 +896,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Red%20Dragon/icon.jpg"
   },
   {
+    "id": 801,
     "titulo": "Papa's Burgeria",
     "descricao": "Assuma o controle da lanchonete do Papa Louie e prepare os hambúrgueres mais deliciosos da cidade! Anote os pedidos, grelhe a carne no ponto certo, monte o sanduíche com os ingredientes exatos e sirva os clientes com rapidez para garantir boas gorjetas.",
     "categorias": [
@@ -916,6 +939,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Papa's%20Burgeria/icon.jpg"
   },
   {
+    "id": 450,
     "titulo": "Pokemon Towering Legends",
     "descricao": "Entre no mundo dos monstros de bolso e participe de batalhas eletrizantes! Escolha seus golpes com sabedoria, derrote os adversários e prove que você é o melhor treinador da região.",
     "categorias": [
@@ -950,6 +974,7 @@
     }
   },
   {
+    "id": 131,
     "titulo": "Final Fantasy Sonic X 1",
     "descricao": "Junte-se ao ouriço mais famoso do mundo em uma aventura épica que mistura elementos de Final Fantasy com Sonic! Siga a história, explore os cenários e prepare-se para enfrentar inimigos formidáveis em batalhas cheias de ação.",
     "categorias": [
@@ -991,6 +1016,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%201/icon.jpg"
   },
   {
+    "id": 455,
     "titulo": "Final Fantasy Sonic X 2",
     "descricao": "Continue a jornada épica do ouriço azul em mais um capítulo eletrizante que mistura universos. Siga a história, explore os cenários repletos de ação e use seus reflexos para superar os perigos e inimigos pelo caminho.",
     "categorias": [
@@ -1027,6 +1053,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%202/icon.jpg"
   },
   {
+    "id": 469,
     "titulo": "Final Fantasy Sonic X 3",
     "descricao": "Acompanhe o terceiro capítulo da saga épica que une os universos de Final Fantasy e Sonic em uma aventura cheia de ação. Supere novos desafios, siga a história e derrote os inimigos que cruzarem o seu caminho.",
     "categorias": [
@@ -1068,6 +1095,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%203/icon.jpg"
   },
   {
+    "id": 525,
     "titulo": "Final Fantasy Sonic X 4",
     "descricao": "Mergulhe no quarto capítulo da emocionante jornada de Sonic em um crossover épico. Enfrente novos inimigos, siga a narrativa cheia de ação e use seus reflexos para vencer os perigos.",
     "categorias": [
@@ -1109,6 +1137,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%204/icon.jpg"
   },
   {
+    "id": 433,
     "titulo": "Final Fantasy Sonic X 5",
     "descricao": "Continue a saga épica de Sonic com mais um capítulo repleto de ação e sequências cinematográficas impressionantes. Siga a história, enfrente inimigos formidáveis e use seus reflexos para sobreviver aos desafios que aparecem.",
     "categorias": [
@@ -1150,6 +1179,7 @@
     "iconeUrl": "https://raw.githubusercontent.com/clickjogos/cjfg/main/FlashGames/Final%20Fantasy%20Sonic%20X%205/icon.jpg"
   },
   {
+    "id": 284,
     "titulo": "Final Fantasy Sonic X 6",
     "descricao": "Acompanhe o sexto capítulo da emocionante saga de Sonic com sequências cheias de ação e muita adrenalina. Siga a narrativa cinematográfica, desvie dos perigos e use seus reflexos rápidos para vencer os desafios que surgem pelo caminho.",
     "categorias": [
